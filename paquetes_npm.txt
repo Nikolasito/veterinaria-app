@@ -1,0 +1,13 @@
+npm i express
+npm i express-handlebars #Motor de plantillas 
+npm i express-session #Guardar sesiones 
+npm i mysql #Conexion de Base de datos
+npm i express-mysql-session #Almacenara la sesion en BD 
+npm i morgan #Muestra por consola las peticiones HTTP
+npm i bcryptjs #Cifrar las contrasenas antes de guardarlas en BD
+npm i passport #Autenticar y manejo de login 
+npm i passport-local #Es un proceso para autentificar a los usuarios
+npm i timeago.js #Tener una registro de fechas de hace cuanto tiempo paso algo
+npm i connect-flash #Mostrar mensajes de error/exito al realizar operaciones
+npm i express-validator #Validar datos del user al ingresar o iniciar sesion
+npm i nodemon #Extencion para el desarrollo 
